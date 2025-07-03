@@ -70,8 +70,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## 🧪 Dataset
-""
+## Dataset
 - **Source:** hyperspectral images were acquired in a controlled remote sensing lab using a SPECIM FX10 camera.
 - **Spectral Range:** 400 nm – 1000 nm across 448 bands.
 - **Image Size:** 1024 × 225 pixels (uint16).
