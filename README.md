@@ -60,7 +60,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## Project Structure
 
-- `data/` – **Private dataset** containing raw hyperspectral rock images and lab results
+- `data/` – **Private dataset** containing .raw and .hdr hyperspectral rock images files.
 - `calibration/` – Scripts for radiometric and geometric image calibration  
 - `preprocessing/` – Feature extraction using Polyfit, wavelets, and K-means clustering  
 - `models/` – Pretrained machine learning models for regression  
