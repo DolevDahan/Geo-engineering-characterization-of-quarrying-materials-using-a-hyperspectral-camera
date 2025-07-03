@@ -51,7 +51,10 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 </p>
 
 - **Preprocessing**
-  - Spectral denoising using Polyfit
+  - Spectral denoising using Polynomial fitting (polyfit)
+    <p align="left">
+    <img src="images/POLYFIT.png" alt="Polyfit" height="300px" style="margin-right: 10px;">
+    </p>
   - Wavelet transform for multiscale analysis
   - Spectral slope & curvature
 
