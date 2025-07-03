@@ -56,7 +56,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   </p>
   - Wavelet transform for multiscale analysis
   <p align="left">
-  <img src="images/wavelet1.tif" alt="Rock pixel (448 bands)" height="300px" style="margin-right: 10px;">
+  <img src="https://github.com/DolevDahan/Geo-engineering-characterization-of-quarrying-materials-using-a-hyperspectral-camera/raw/main/images/wavelet3.png" alt="Wavelet Feature" height="180px">
   <img src="images/Haar_Wavelets2.png" alt="haar wavelets" height="300px" style="margin-right: 10px;">
   <img src="images/wavelet2.png" alt="wavelets coeffs" height="300px" style="margin-right: 10px;">
   <img src="images/wavelet3.png" alt="reconstructed" height="300px">
