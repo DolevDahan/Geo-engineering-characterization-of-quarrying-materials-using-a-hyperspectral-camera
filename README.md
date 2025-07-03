@@ -54,7 +54,7 @@ This camera is commonly used in fields such as **geology, agriculture, quality c
   <img src="images/Products-Specim-FX10-2.jpg" width="60%" alt="SPECIM FX10 Hyperspectral Camera">
 </p>
 
-## 📌 Project Overview
+## Project Overview
 
 This repository presents a complete pipeline for the **automated characterization of rock mechanical properties** using **hyperspectral imaging** and **machine learning** techniques. The goal is to provide a fast, cost-effective alternative to traditional lab-based methods for civil engineering and mining applications.
 
@@ -62,7 +62,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Replace slow and expensive lab-based rock analysis with a hyperspectral AI-based pipeline.
 - Extract dense spectral data using the **Specim FX10** camera.
@@ -84,6 +84,12 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 ---
 
 ## 🛠️ Tools and Methods
+
+- **Hyperspectral Camera**
+  - Specim FX10 
+![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.png)
+
+> Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
 - **Image Calibration**
   - Dark frame subtraction
