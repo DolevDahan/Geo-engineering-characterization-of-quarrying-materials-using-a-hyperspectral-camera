@@ -50,13 +50,9 @@ This camera is commonly used in fields such as **geology, agriculture, quality c
 
 # Geo-engineering Characterization of Quarrying Materials using Hyperspectral Imaging
 
-<p align="center">
-  <img src="images/Products-Specim-FX10-2.jpg" width="60%" alt="SPECIM FX10 Hyperspectral Camera">
-</p>
-
 ## Project Overview
 
-This repository presents a complete pipeline for the **automated characterization of rock mechanical properties** using **hyperspectral imaging** and **machine learning** techniques. The goal is to provide a fast, cost-effective alternative to traditional lab-based methods for civil engineering and mining applications.
+This repository presents **models for characterizing the mechanical properties of rocks** using **hyperspectral imaging and machine learning techniques**. The goal is to provide a fast and cost-effective alternative to traditional laboratory methods used in civil engineering and mining applications.
 
 The project was conducted as part of a B.Sc. graduation project in Electrical and Computer Engineering.
 
