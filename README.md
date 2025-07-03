@@ -12,8 +12,13 @@ The dataset used in this project is **private** and was acquired using a **Speci
 
 ## Hyperspectral Camera
 
+
+
 ### 📷 Specim FX10  
-[🔗 Official product page](https://www.specim.com/products/specim-fx10/#)
+
+![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.png)
+
+> Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
 The **Specim FX10** is a high-performance hyperspectral camera that operates in the **visible to near-infrared (VNIR)** range, covering wavelengths from **400 nm to 1000 nm**. It captures detailed spectral information at each pixel, enabling precise material identification and surface analysis.
 
@@ -31,11 +36,6 @@ This camera is commonly used in fields such as **geology, agriculture, quality c
 
 ---
 
-### 📸 Image
-
-![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.png)
-
-> Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
 
 
