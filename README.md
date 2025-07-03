@@ -38,11 +38,12 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - Imaging
 - Image Processing
 - Machine learning
---
+
 <p align="left">
   <img src="images/project_struct.png" alt="project structure" height="700px" style="margin-right: 10px;">
 </p>
 
+---
 ## Tools and Methods
 
 - **Hyperspectral Camera** - Specim FX10
