@@ -56,10 +56,10 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   </p>
   - Wavelet transform for multiscale analysis
   <p align="left">
-  <img src="images/wavelet_1.jpg" alt="haar wavelets" height="300px" style="margin-right: 10px;">
-  <img src="images/wavelet_2.jpg" alt="haar wavelets" height="300px" style="margin-right: 10px;">
-  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" height="300px" style="margin-right: 10px;">
-  <img src="images/wavelet_3.jpg" alt="reconstructed" height="300px">
+  <img src="images/wavelet_1.jpg" alt="haar wavelets" height="200px" style="margin-right: 10px;">
+  <img src="images/wavelet_2.jpg" alt="haar wavelets" height="200px" style="margin-right: 10px;">
+  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" height="200px" style="margin-right: 10px;">
+  <img src="images/wavelet_3.jpg" alt="reconstructed" height="200px">
   </p>
   - Spectral slope & curvature
 
