@@ -46,8 +46,8 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   - White reference normalization
 
 <p align="left">
-  <img src="images/before-calibration.png" alt="Before Calibration" height="180px" style="margin-right: 10px;">
-  <img src="images/after-calibration.png" alt="After Calibration" height="180px">
+  <img src="images/before_calib.png" alt="Before Calibration" height="180px" style="margin-right: 10px;">
+  <img src="images/after_cali.png" alt="After Calibration" height="180px">
 </p>
 
 - **Preprocessing**
