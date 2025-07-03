@@ -85,8 +85,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## 🛠️ Tools and Methods
 
-- **Hyperspectral Camera**
-  - Specim FX10 
+- **Hyperspectral Camera** - Specim FX10
 ![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.png)
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
