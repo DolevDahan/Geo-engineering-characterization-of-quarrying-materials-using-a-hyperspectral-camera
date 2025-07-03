@@ -86,7 +86,9 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 ## 🛠️ Tools and Methods
 
 - **Hyperspectral Camera** - Specim FX10
-![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.png)
+<p align="left">
+  <img src="Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="200">
+</p>
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
@@ -112,13 +114,13 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## Project Structure
 
-├── data/ # Raw hyperspectral images and lab results
-├── calibration/ # Image correction scripts
-├── preprocessing/ # Polyfit, wavelet, and K-means clustering
-├── models/ # Trained ML models
-├── notebooks/ # Jupyter experiments and visualizations
-├── images/ # Illustrative figures for documentation
-└── README.md
+- `data/` – Raw hyperspectral rock images and corresponding lab-measured properties  
+- `calibration/` – Scripts for radiometric and geometric image calibration  
+- `preprocessing/` – Feature extraction using Polyfit, wavelets, and K-means clustering  
+- `models/` – Pretrained machine learning models for regression  
+- `notebooks/` – Jupyter notebooks for visualization, training, and evaluation  
+- `images/` – Project-related illustrations and figures for documentation  
+- `README.md` – Project description and usage guide
 
 
 
