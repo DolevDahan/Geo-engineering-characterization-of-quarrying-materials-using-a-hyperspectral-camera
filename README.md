@@ -36,7 +36,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 - **Hyperspectral Camera** - Specim FX10
 <p align="left">
-  <img src="Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="200">
+  <img src="images/Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="200">
 </p>
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
