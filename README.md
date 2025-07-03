@@ -33,7 +33,7 @@ This camera is commonly used in fields such as **geology, agriculture, quality c
 
 ### 📸 Image
 
-![Specim FX10 Hyperspectral Camera](![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.jpg))
+![Specim FX10 Hyperspectral Camera](Products-Specim-FX10-2.jpg)
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
