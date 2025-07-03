@@ -75,8 +75,8 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 ---
 
 ## 🧪 Dataset
-
-- **Source:** Collected in a controlled laboratory setup using a [SPECIM FX10](https://www.specim.com/products/specim-fx10/#) hyperspectral camera.
+""
+- **Source:** hyperspectral images were acquired in a controlled remote sensing lab using a SPECIM FX10 camera.
 - **Spectral Range:** 400 nm – 1000 nm across 448 bands.
 - **Image Size:** 1024 × 225 pixels (uint16).
 - **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
@@ -114,7 +114,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## Project Structure
 
-- `data/` – Raw hyperspectral rock images and corresponding lab-measured properties  
+- `data/` – **Private dataset** containing raw hyperspectral rock images and lab results
 - `calibration/` – Scripts for radiometric and geometric image calibration  
 - `preprocessing/` – Feature extraction using Polyfit, wavelets, and K-means clustering  
 - `models/` – Pretrained machine learning models for regression  
@@ -152,7 +152,7 @@ Supervised by:
 
 ---
 
-## 📎 License
+## License
 
-This project is released for academic and research purposes. Contact authors for commercial use.
+This project is released for academic and research purposes.
 
