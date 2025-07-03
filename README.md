@@ -44,18 +44,23 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
-
-<p align="left">
-  <img src="images/before_calib.png" alt="Before Calibration" height="300px" style="margin-right: 10px;">
-  <img src="images/after_calib.png" alt="After Calibration" height="300px">
-</p>
+  <p align="left">
+    <img src="images/before_calib.png" alt="Before Calibration" height="300px" style="margin-right: 10px;">
+    <img src="images/after_calib.png" alt="After Calibration" height="300px">
+  </p>
 
 - **Preprocessing**
   - Spectral denoising using Polynomial fitting (polyfit)
-    <p align="left">
-    <img src="images/POLYFIT.png" alt="Polyfit" height="300px" style="margin-right: 10px;">
-    </p>
+  <p align="left">
+  <img src="images/POLYFIT.png" alt="Polyfit" height="300px" style="margin-right: 10px;">
+  </p>
   - Wavelet transform for multiscale analysis
+  <p align="left">
+  <img src="images/wavelet1.tif" alt="Rock pixel (448 bands)" height="300px" style="margin-right: 10px;">
+  <img src="images/Haar_Wavelets2.png" alt="haar wavelets" height="300px" style="margin-right: 10px;">
+  <img src="images/wavelet2.png" alt="wavelets coeffs" height="300px" style="margin-right: 10px;">
+  <img src="images/wavelet3.png" alt="reconstructed" height="300px">
+  </p>
   - Spectral slope & curvature
 
 - **Clustering**
