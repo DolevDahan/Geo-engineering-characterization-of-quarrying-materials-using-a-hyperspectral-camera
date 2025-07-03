@@ -27,9 +27,9 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
 
 <p align="left">
-  <img src="images/lab1.jpg" alt="Lab Setup 1" width="30%" style="margin-right: 10px;">
-  <img src="images/lab2.jpg" alt="Lab Setup 2" width="30%" style="margin-right: 10px;">
-  <img src="images/lab3.jpg" alt="Lab Setup 3" width="30%">
+  <img src="images/lab1.jpg" alt="Lab Setup 1" height="180px" style="margin-right: 10px;">
+  <img src="images/lab2.jpg" alt="Lab Setup 2" height="180px" style="margin-right: 10px;">
+  <img src="images/lab3.jpg" alt="Lab Setup 3" height="180px">
 </p>
 ---
 
