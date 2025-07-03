@@ -32,11 +32,13 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/lab3.jpg" alt="Lab Setup 3" height="220px">
 </p>
 
+---
+
 ## Project Structure
 - Imaging
 - Image Processing
 - Machine learning
----
+--
 <p align="left">
   <img src="images/project_struct.png" alt="project structure" height="700px" style="margin-right: 10px;">
 </p>
