@@ -44,6 +44,10 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
+<p align="left">
+  <img src="images/before calibration.tif" alt="Before Calibration" height="180px" style="margin-right: 10px;">
+  <img src="images/after calibration.tif" alt="After Calibration" height="180px">
+</p>
 
 - **Preprocessing**
   - Spectral denoising using Polyfit
@@ -61,20 +65,6 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## Project Structure
-
-- `data/` – **Private dataset** containing .raw and .hdr hyperspectral rock images files.
-- `calibration/` – Scripts for radiometric and geometric image calibration  
-- `preprocessing/` – Feature extraction using Polyfit, wavelets, and K-means clustering  
-- `models/` – Pretrained machine learning models for regression  
-- `notebooks/` – Jupyter notebooks for visualization, training, and evaluation  
-- `images/` – Project-related illustrations and figures for documentation  
-- `README.md` – Project description and usage guide
-
-
-
----
-
 ## Results
 
 | Target Property     | MAE   | R² Score |
@@ -83,7 +73,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 | UCS (Strength)      | ~8.6  | 0.91     |
 | Density             | ~0.14 | 0.89     |
 
-> Visual correlation plots between ground truth and predictions are available in the `notebooks/` directory.
+
 
 ---
 
