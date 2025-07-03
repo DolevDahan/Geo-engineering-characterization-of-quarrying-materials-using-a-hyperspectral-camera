@@ -32,6 +32,10 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/lab3.jpg" alt="Lab Setup 3" height="180px">
 </p>
 
+## Project Structure
+
+<img src="images/project_struct.png" alt="reconstructed" height="200px">
+
 ## Tools and Methods
 
 - **Hyperspectral Camera** - Specim FX10
@@ -60,8 +64,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/wavelet_4.jpg" alt="wavelets coeffs" height="200px" style="margin-right: 10px;">
   <img src="images/wavelet_3.jpg" alt="reconstructed" height="200px">
   </p>
-  <img src="images/wavelet_2.jpg" alt="haar wavelets" height="100px">
-  </p>
+  
   - Spectral slope & curvature
 
 - **Clustering**
