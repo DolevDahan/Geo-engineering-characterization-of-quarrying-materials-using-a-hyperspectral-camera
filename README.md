@@ -26,14 +26,17 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Size:** 1024 × 225 pixels (uint16).
 - **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
 
+<p align="left">
+  <img src="images/lab1.jpg" alt="Lab Setup 1" height="180px" style="margin-right: 10px;">
+  <img src="images/lab2.jpg" alt="Lab Setup 2" height="180px" style="margin-right: 10px;">
+  <img src="images/lab3.jpg" alt="Lab Setup 3" height="180px">
+</p>
 
----
-
-## 🛠️ Tools and Methods
+## Tools and Methods
 
 - **Hyperspectral Camera** - Specim FX10
 <p align="left">
-  <img src="Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="200">
+  <img src="images/Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="200">
 </p>
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
@@ -41,6 +44,10 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
+<p align="left">
+  <img src="images/before calibration.tif" alt="Before Calibration" height="180px" style="margin-right: 10px;">
+  <img src="images/after calibration.tif" alt="After Calibration" height="180px">
+</p>
 
 - **Preprocessing**
   - Spectral denoising using Polyfit
@@ -58,21 +65,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## Project Structure
-
-- `data/` – **Private dataset** containing .raw and .hdr hyperspectral rock images files.
-- `calibration/` – Scripts for radiometric and geometric image calibration  
-- `preprocessing/` – Feature extraction using Polyfit, wavelets, and K-means clustering  
-- `models/` – Pretrained machine learning models for regression  
-- `notebooks/` – Jupyter notebooks for visualization, training, and evaluation  
-- `images/` – Project-related illustrations and figures for documentation  
-- `README.md` – Project description and usage guide
-
-
-
----
-
-## 📈 Results
+## Results
 
 | Target Property     | MAE   | R² Score |
 |---------------------|-------|----------|
@@ -80,7 +73,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 | UCS (Strength)      | ~8.6  | 0.91     |
 | Density             | ~0.14 | 0.89     |
 
-> Visual correlation plots between ground truth and predictions are available in the `notebooks/` directory.
+
 
 ---
 
