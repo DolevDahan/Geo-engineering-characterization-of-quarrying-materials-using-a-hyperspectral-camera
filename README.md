@@ -31,9 +31,8 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/lab2.jpg" alt="Lab Setup 2" height="180px" style="margin-right: 10px;">
   <img src="images/lab3.jpg" alt="Lab Setup 3" height="180px">
 </p>
----
 
-## 🛠️ Tools and Methods
+## Tools and Methods
 
 - **Hyperspectral Camera** - Specim FX10
 <p align="left">
@@ -76,7 +75,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## 📈 Results
+## Results
 
 | Target Property     | MAE   | R² Score |
 |---------------------|-------|----------|
