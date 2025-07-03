@@ -34,7 +34,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## Project Structure
 <p align="left">
-  <img src="images/project_struct.png" alt="project structure" height="500px" style="margin-right: 10px;">
+  <img src="images/project_struct.png" alt="project structure" height="700px" style="margin-right: 10px;">
 </p>
 
 ## Tools and Methods
