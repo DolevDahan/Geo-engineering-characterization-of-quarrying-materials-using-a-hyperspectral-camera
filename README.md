@@ -105,7 +105,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ├── data/ # Raw hyperspectral images and lab results
 ├── calibration/ # Image correction scripts
@@ -131,21 +131,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## 🔍 Key Takeaways
-
-- Hyperspectral imaging enables **non-destructive**, **fast**, and **accurate** rock analysis.
-- Combining **spectral features**, **unsupervised clustering**, and **regression models** yields reliable predictions.
-- The workflow is scalable for real-time, in-field geological analysis using embedded AI.
-
----
-
-## 🧠 Keywords
-
-`Hyperspectral Imaging` · `Spectral Analysis` · `Rocks` · `AI` · `Machine Learning` · `Neural Networks`
-
----
-
-## 👨‍💻 Authors
+## Authors
 
 - **Dolev Dahan**  
 - **Tal Dayan**  
