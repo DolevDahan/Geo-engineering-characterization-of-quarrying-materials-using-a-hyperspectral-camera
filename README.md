@@ -44,6 +44,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
+
 <p align="left">
   <img src="images/before-calibration.png" alt="Before Calibration" height="180px" style="margin-right: 10px;">
   <img src="images/after-calibration.png" alt="After Calibration" height="180px">
