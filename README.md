@@ -47,15 +47,15 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ---
 
-## Tools and Methods
 
-- **Hyperspectral Camera** - Specim FX10  
+## Hyperspectral Camera - Specim FX10  
 <p align="left">
   <img src="images/Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" width="500px">
 </p>
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
+## Preprocessing
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
@@ -65,29 +65,27 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/after_calib.png" alt="After Calibration" width="400px">
 </p>
 
-- **Preprocessing**
+- **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
 
 <p align="left">
   <img src="images/POLYFIT.png" alt="Polyfit" width="400px">
 </p>
 
-  - Wavelet transform for multiscale analysis
+- **Clustering**
+  - Unsupervised pixel segmentation using **K-Means**
 
+- **Feature extraction**
+  - Statistical features  
+  - Wavelet transform
+  
 <p align="left">
   <img src="images/wavelet_1.jpg" width="500px"><br>
   <img src="images/wavelet_4.jpg" width="500px"><br>
   <img src="images/wavelet_3.jpg" width="500px">
 </p>
 
-  
-  - Spectral slope & curvature
-
-- **Clustering**
-  - Unsupervised pixel segmentation using **K-Means**
-
 - **Machine Learning**
-  - Feature extraction
   - Training with:
     - Random Forest Regressor
     - Neural Networks (MLP)
