@@ -33,7 +33,8 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/lab3.jpg" alt="Lab Setup 3" width="120px" height="120px" style="object-fit: cover;">
 </p>
 
-- Dataset example can be foune **here**
+- Dataset example can be found [here](https://github.com/DolevDahan/Hyperspectral-Image-Processing/tree/main/dataset%20example)
+
   
 
 
