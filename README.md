@@ -27,9 +27,9 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
 
 <p align="left">
-  <img src="images/lab1.jpg" alt="Lab Setup 1" height="120px" style="margin-right: 10px;">
-  <img src="images/lab2.jpg" alt="Lab Setup 2" height="120px" style="margin-right: 10px;">
-  <img src="images/lab3.jpg" alt="Lab Setup 3" height="120px">
+  <img src="images/lab1.jpg" alt="Lab Setup 1" width="300px" style="margin-right: 10px;">
+  <img src="images/lab2.jpg" alt="Lab Setup 2" width="300px" style="margin-right: 10px;">
+  <img src="images/lab3.jpg" alt="Lab Setup 3" width="300px">
 </p>
 
 ---
@@ -40,15 +40,16 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - Machine learning
 
 <p align="left">
-  <img src="images/project_struct.png" alt="project structure" height="700px" style="margin-right: 10px;">
+  <img src="images/project_struct.png" alt="project structure" width="800px" style="margin-right: 10px;">
 </p>
 
 ---
+
 ## Tools and Methods
 
-- **Hyperspectral Camera** - Specim FX10
+- **Hyperspectral Camera** - Specim FX10  
 <p align="left">
-  <img src="images/Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" height="500px">
+  <img src="images/Products-Specim-FX10-2.png" alt="Specim FX10 Hyperspectral Camera" width="500px">
 </p>
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
@@ -56,22 +57,26 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
-  <p align="left">
-    <img src="images/before_calib.png" alt="Before Calibration" height="300px" style="margin-right: 10px;">
-    <img src="images/after_calib.png" alt="After Calibration" height="300px">
-  </p>
+
+<p align="left">
+  <img src="images/before_calib.png" alt="Before Calibration" width="400px" style="margin-right: 10px;">
+  <img src="images/after_calib.png" alt="After Calibration" width="400px">
+</p>
 
 - **Preprocessing**
   - Spectral denoising using Polynomial fitting (polyfit)
-  <p align="left">
-  <img src="images/POLYFIT.png" alt="Polyfit" height="300px" style="margin-right: 10px;">
-  </p>
+
+<p align="left">
+  <img src="images/POLYFIT.png" alt="Polyfit" width="400px">
+</p>
+
   - Wavelet transform for multiscale analysis
-  <p align="left">
-  <img src="images/wavelet_1.jpg" alt="haar wavelets" height="200px" style="margin-right: 10px;">
-  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" height="200px" style="margin-right: 10px;">
-  <img src="images/wavelet_3.jpg" alt="reconstructed" height="200px">
-  </p>
+
+<p align="left">
+  <img src="images/wavelet_1.jpg" alt="haar wavelets" width="250px" style="margin-right: 10px;">
+  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" width="250px" style="margin-right: 10px;">
+  <img src="images/wavelet_3.jpg" alt="reconstructed" width="250px">
+</p>
   
   - Spectral slope & curvature
 
@@ -94,8 +99,6 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 | UCS (Strength)      | ~8.6  | 0.91     |
 | Density             | ~0.14 | 0.89     |
 
-
-
 ---
 
 ## Authors
@@ -115,4 +118,3 @@ Supervised by:
 ## License
 
 This project is released for academic and research purposes.
-
