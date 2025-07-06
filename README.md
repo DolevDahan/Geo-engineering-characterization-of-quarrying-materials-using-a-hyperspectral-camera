@@ -78,10 +78,37 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
     <p align="left">
       <img src="images/‏‏27b RGB2.png" alt="27b RGB" width="400px" style="margin-right: 10px;">
     </p>
-  - Removing spectral edge data due to low intensity [W/m^2] near 400 nm and 1000 nm (spectrum boundaries)
+  - Removing spectral edge data due to low intensity near 400 nm and 1000 nm (spectrum boundaries)
     <p align="left">
       <img src="images/Halogen and Rock Reflectance.png" alt="Halogen and Rock Reflectance" width="400px" style="margin-right: 10px;">
     </p>
+
+- **Euclidean normalization**
+In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using 
+
+**Formula:**
+
+For a pixel vector:  
+\\[
+\mathbf{x} = [x_1, x_2, \dots, x_n]
+\\]
+
+The Euclidean norm is calculated as:  
+\\[
+\|\mathbf{x}\|_2 = \sqrt{x_1^2 + x_2^2 + \cdots + x_n^2}
+\\]
+
+And the normalized vector is:  
+\\[
+\hat{\mathbf{x}} = \frac{\mathbf{x}}{\|\mathbf{x}\|_2}
+\\]
+
+If the norm is zero (i.e., a zero vector), the pixel is left unchanged.
+
+**Implementation Summary:**
+- Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
+- For each pixel, we compute its L2 norm and divide the pixel vector by this value.
+- A 2D matrix storing the original Euclidean distances is also returned.
 
 - **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
