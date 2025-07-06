@@ -86,21 +86,21 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Euclidean normalization**
   In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using 
   
-**Formula**
-
-Let **x** be a pixel vector:  
- **x** = [x₁, x₂, ..., xₙ]  
-
-The **Euclidean norm** (L² norm) is defined as:  
- ‖**x**‖₂ = sqrt(x₁² + x₂² + ... + xₙ²)  
-
-The **normalized vector** is:  
- **x̂** = **x** / ‖**x**‖₂
-
-**Implementation Summary:**
-- Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
-- For each pixel, we compute its L2 norm and divide the pixel vector by this value.
-- A 2D matrix storing the original Euclidean distances is also returned.
+    **Formula**
+    
+    Let **x** be a pixel vector:  
+     **x** = [x₁, x₂, ..., xₙ]  
+    
+    The **Euclidean norm** (L² norm) is defined as:  
+     ‖**x**‖₂ = sqrt(x₁² + x₂² + ... + xₙ²)  
+    
+    The **normalized vector** is:  
+     **x̂** = **x** / ‖**x**‖₂
+    
+    **Implementation Summary:**
+    - Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
+    - For each pixel, we compute its L2 norm and divide the pixel vector by this value.
+    - A 2D matrix storing the original Euclidean distances is also returned.
 
 - **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
