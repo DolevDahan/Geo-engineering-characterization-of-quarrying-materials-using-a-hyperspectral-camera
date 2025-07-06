@@ -28,12 +28,15 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 - **LAB setup:**
 <p align="left">
-  <img src="images/lab1.jpg" alt="Lab Setup 1" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
-  <img src="images/lab2.jpg" alt="Lab Setup 2" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
-  <img src="images/lab3.jpg" alt="Lab Setup 3" width="120px" height="120px" style="object-fit: cover;">
+  <img src="images/lab1.jpg" width="120" height="120">
+  <img src="images/lab2.jpg" width="120" height="120">
+  <img src="images/lab3.jpg" width="120" height="120">
 </p>
 
-- Dataset example can be foune **here**
+
+
+- Dataset example can be found [here](https://github.com/DolevDahan/Hyperspectral-Image-Processing/tree/main/dataset%20example)
+
   
 
 
