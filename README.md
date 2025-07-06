@@ -27,10 +27,11 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
 
 <p align="left">
-  <img src="images/lab1.jpg" alt="Lab Setup 1" width="100px" height="100px" style="margin-right: 10px; object-fit: cover;">
-  <img src="images/lab2.jpg" alt="Lab Setup 2" width="100px" height="100px" style="margin-right: 10px; object-fit: cover;">
-  <img src="images/lab3.jpg" alt="Lab Setup 3" width="100px" height="100px" style="object-fit: cover;">
+  <img src="images/lab1.jpg" alt="Lab Setup 1" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
+  <img src="images/lab2.jpg" alt="Lab Setup 2" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
+  <img src="images/lab3.jpg" alt="Lab Setup 3" width="120px" height="120px" style="object-fit: cover;">
 </p>
+
 
 
 ---
@@ -74,10 +75,11 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   - Wavelet transform for multiscale analysis
 
 <p align="left">
-  <img src="images/wavelet_1.jpg" alt="haar wavelets" width="500px" style="margin-right: 10px;">
-  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" width="500px" style="margin-right: 10px;">
-  <img src="images/wavelet_3.jpg" alt="reconstructed" width="500px">
+  <img src="images/wavelet_1.jpg" width="500px"><br>
+  <img src="images/wavelet_4.jpg" width="500px"><br>
+  <img src="images/wavelet_3.jpg" width="500px">
 </p>
+
   
   - Spectral slope & curvature
 
