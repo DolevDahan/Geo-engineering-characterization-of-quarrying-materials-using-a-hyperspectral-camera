@@ -74,9 +74,9 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   - Wavelet transform for multiscale analysis
 
 <p align="left">
-  <img src="images/wavelet_1.jpg" alt="haar wavelets" width="250px" style="margin-right: 10px;">
-  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" width="250px" style="margin-right: 10px;">
-  <img src="images/wavelet_3.jpg" alt="reconstructed" width="250px">
+  <img src="images/wavelet_1.jpg" alt="haar wavelets" width="500px" style="margin-right: 10px;">
+  <img src="images/wavelet_4.jpg" alt="wavelets coeffs" width="500px" style="margin-right: 10px;">
+  <img src="images/wavelet_3.jpg" alt="reconstructed" width="500px">
 </p>
   
   - Spectral slope & curvature
@@ -103,9 +103,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 ---
 
 ## Authors
-
 - **Dolev Dahan**  
-- **Tal Dayan**  
 
 Supervised by:  
 **Dr. Yitzhak August**  
