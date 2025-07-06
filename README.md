@@ -41,7 +41,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - Machine learning
 
 <p align="left">
-  <img src="images/project_struct.png" alt="project structure" width="800px" style="margin-right: 10px;">
+  <img src="images/project_struct.png" alt="project structure" width="400px" style="margin-right: 10px;">
 </p>
 
 ---
