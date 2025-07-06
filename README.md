@@ -76,7 +76,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Rock Pixel Segmentation and Spectral Edge Removal**
   - Isolating the rock spatial pixels
 <p align="left">
-  <img src="images/27b RGB.png" alt="27b RGB" width="400px" style="margin-right: 10px;">
+  <img src="images/‏‏27b RGB2.png" alt="27b RGB" width="400px" style="margin-right: 10px;">
 </p>
 
   - Removing spectral edge data due to low reflectance near 400 nm and 1000 nm (spectrum boundaries)
