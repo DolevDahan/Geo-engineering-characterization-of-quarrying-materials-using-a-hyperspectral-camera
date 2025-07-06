@@ -84,24 +84,18 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
     </p>
 
 - **Euclidean normalization**
-In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using 
-
+  In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using 
+  
 **Formula:**
 
-For a pixel vector:  
-\\[
-\mathbf{x} = [x_1, x_2, \dots, x_n]
-\\]
+For a pixel vector:
+x = [x₁, x₂, ..., xₙ]
 
-The Euclidean norm is calculated as:  
-\\[
-\|\mathbf{x}\|_2 = \sqrt{x_1^2 + x_2^2 + \cdots + x_n^2}
-\\]
+Euclidean norm:
+‖x‖₂ = sqrt(x₁² + x₂² + ... + xₙ²)
 
-And the normalized vector is:  
-\\[
-\hat{\mathbf{x}} = \frac{\mathbf{x}}{\|\mathbf{x}\|_2}
-\\]
+Normalized vector:
+x̂ = x / ‖x‖₂
 
 If the norm is zero (i.e., a zero vector), the pixel is left unchanged.
 
