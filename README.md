@@ -24,14 +24,17 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Source:** hyperspectral images were acquired in a controlled remote sensing lab using a SPECIM FX10 camera.
 - **Spectral Range:** 400 nm – 1000 nm across 448 bands.
 - **Image Size:** 1024 × 225 pixels (uint16).
-- **Samples:** 102 different rock samples with mechanical property labels obtained through standard IS3 tests.
+- **Samples:** 102 different rock samples with mechanical property labels, tested in the Civil Engineering Laboratory using standard and widely accepted methods currently used in the industry.
 
+- **LAB setup:**
 <p align="left">
   <img src="images/lab1.jpg" alt="Lab Setup 1" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
   <img src="images/lab2.jpg" alt="Lab Setup 2" width="120px" height="120px" style="object-fit: cover; margin-right: 10px;">
   <img src="images/lab3.jpg" alt="Lab Setup 3" width="120px" height="120px" style="object-fit: cover;">
 </p>
 
+- Dataset example can be foune **here**
+  
 
 
 ---
