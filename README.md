@@ -92,7 +92,7 @@ Let **x** be a pixel vector:
  **x** = [x₁, x₂, ..., xₙ]  
 
 The **Euclidean norm** (L² norm) is defined as:  
- ‖**x**‖₂ = √(x₁² + x₂² + ... + xₙ²)  
+ ‖**x**‖₂ = sqrt(x₁² + x₂² + ... + xₙ²)  
 
 The **normalized vector** is:  
  **x̂** = **x** / ‖**x**‖₂
