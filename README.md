@@ -74,6 +74,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 ## Preprocessing
 - **Rock Pixel Segmentation and Spectral Edge Removal**
+  
   - Isolating the rock spatial pixels
 <p align="left">
   <img src="images/‏‏27b RGB2.png" alt="27b RGB" width="400px" style="margin-right: 10px;">
