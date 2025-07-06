@@ -28,9 +28,9 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 - **LAB setup:**
 <p align="left">
-  <img src="images/lab1.jpg" alt="Lab Setup 1" width="120" height="120">
-  <img src="images/lab2.jpg" alt="Lab Setup 2" width="120" height="120">
-  <img src="images/lab3.jpg" alt="Lab Setup 3" width="120" height="120">
+  <img src="images/lab1.jpg" width="120" height="120">
+  <img src="images/lab2.jpg" width="120" height="120">
+  <img src="images/lab3.jpg" width="120" height="120">
 </p>
 
 
