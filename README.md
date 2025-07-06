@@ -73,7 +73,21 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 </p>
 
 ## Preprocessing
+- **Rock Pixel Segmentation and Spectral Edge Removal**
+  - Isolating the rock spatial pixels
+<p align="left">
+  <img src="images/27b RGB.png" alt="27b RGB" width="400px" style="margin-right: 10px;">
+</p>
 
+  - Removing spectral edge data due to low reflectance near 400 nm and 1000 nm (spectrum boundaries)
+<p align="left">
+  <img src="images/Halogen and Rock Reflectance.png" alt="Halogen and Rock Reflectance" width="400px" style="margin-right: 10px;">
+</p>
+
+
+
+  
+  
 - **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
 
