@@ -57,7 +57,6 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 > Source: [www.specim.com](https://www.specim.com/products/specim-fx10/#)
 
-## Preprocessing
 - **Image Calibration**
   - Dark frame subtraction
   - White reference normalization
@@ -66,6 +65,8 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
   <img src="images/before_calib.png" alt="Before Calibration" width="400px" style="margin-right: 10px;">
   <img src="images/after_calib.png" alt="After Calibration" width="400px">
 </p>
+
+## Preprocessing
 
 - **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
