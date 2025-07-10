@@ -1,3 +1,5 @@
+
+  
 # Geo-engineering Characterization of Quarrying Materials using Hyperspectral Imaging
 
 ## Project Overview
@@ -86,58 +88,22 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 - **Euclidean normalization**
   In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using Euclidean Normalization.
   
+  **Formula**
+  
+  Let **x** be a pixel vector:  
+  **$$x = [x_1, x_2, ⋯ ,x_n]$$**
+  
+  The **Euclidean norm** (L2 norm) is defined as:  
+  **$$\bf{|x|_{L2} = \sqrt{{x_1}^2 + {x_2}^2 + ⋯ {x_n}^2}}$$**
 
+  
+  The **normalized vector** is:  
+  **$$\hat{x} = \frac{x}{|x|_{L2}}$$**
 
-
-
-    **Formula**
-    
-    Let **x** be a pixel vector:  
-    $$
-    \mathbf{x} = [x_1,\, x_2,\, \dots,\, x_n]
-    $$
-    
-    The **Euclidean norm** (L2 norm) is defined as:  
-    $$
-    \|\mathbf{x}\|_2 = \sqrt{x_1^2 + x_2^2 + \dots + x_n^2}
-    $$
-    
-    The **normalized vector** is:  
-    $$
-    \hat{\mathbf{x}} = \frac{\mathbf{x}}{\|\mathbf{x}\|_2}
-    $$
-    
-    **Implementation Summary:**
-    - Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
-    - For each pixel, we compute its L2 norm and divide the pixel vector by this value.
-    - A 2D matrix storing the original Euclidean distances is also returned.
- 
-### 📏 Euclidean normalization
-
-In order to eliminate magnitude differences between pixel spectra and enable better feature extraction, each pixel vector in the hyperspectral cube was normalized to unit length using **Euclidean normalization**.
-
-#### **Formula**
-
-Let **x** be a pixel vector:  
-$$
-\mathbf{x} = [x_1,\, x_2,\, \dots,\, x_n]
-$$
-
-The **Euclidean norm** ($L^2$ norm) is defined as:  
-$$
-\|\mathbf{x}\|_2 = \sqrt{x_1^2 + x_2^2 + \dots + x_n^2}
-$$
-
-The **normalized vector** is:  
-$$
-\hat{\mathbf{x}} = \frac{\mathbf{x}}{\|\mathbf{x}\|_2}
-$$
-
-#### **Implementation Summary**
-- Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
-- For each pixel, we compute its L2 norm and divide the pixel vector by this value.
-- A 2D matrix storing the original Euclidean distances is also returned.
-
+  **Implementation Summary:**
+  - Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
+  - For each pixel, we compute its L2 norm and divide the pixel vector by this value.
+  - A 2D matrix storing the original Euclidean distances is also returned.
 
 - **Denoising**
   - Spectral denoising using Polynomial fitting (polyfit)
