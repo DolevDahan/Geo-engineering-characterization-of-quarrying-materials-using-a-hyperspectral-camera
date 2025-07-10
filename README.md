@@ -35,7 +35,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
 
 
 
-- Dataset example can be found [here](https://github.com/DolevDahan/Hyperspectral-Image-Processing/tree/main/dataset%20example)
+- Dataset example can be found [here](https://github.com/DolevDahan/Hyperspectral-Image-Processing/tree/main/dataset)
 
   
 
