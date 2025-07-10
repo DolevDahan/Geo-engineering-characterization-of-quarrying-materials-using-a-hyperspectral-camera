@@ -93,7 +93,7 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
       <img src="images/formula_1.png" alt="formula_1.png" width="400px" style="margin-right: 10px;">
     </p> 
     
-    The **Euclidean norm** (L² norm) is defined as:  
+    The **Euclidean norm** (L2 norm) is defined as:  
     <p align="left">
       <img src="images/formula_2.png" alt="formula_2.png" width="400px" style="margin-right: 10px;">
     </p>   
@@ -102,6 +102,24 @@ The project was conducted as part of a B.Sc. graduation project in Electrical an
     <p align="left">
       <img src="images/formula_3.png" alt="formula_3.png" width="400px" style="margin-right: 10px;">
     </p> 
+
+
+    **Formula**
+    
+    Let **x** be a pixel vector:  
+    $$
+    \mathbf{x} = [x_1,\, x_2,\, \dots,\, x_n]
+    $$
+    
+    The **Euclidean norm** (L2 norm) is defined as:  
+    $$
+    \|\mathbf{x}\|_2 = \sqrt{x_1^2 + x_2^2 + \dots + x_n^2}
+    $$
+    
+    The **normalized vector** is:  
+    $$
+    \hat{\mathbf{x}} = \frac{\mathbf{x}}{\|\mathbf{x}\|_2}
+    $$
     
     **Implementation Summary:**
     - Each pixel in the hyperspectral cube is treated as a vector over the spectral bands.
